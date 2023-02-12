@@ -16,7 +16,7 @@ for root, dirs, files in os.walk(rootdir):
                     l4 = "git add --all :/\n"
                     l5 = 'git commit -m "first commit"\n'
                     l6 = "git branch -M main\n"
-                    l7 = "git remote remove origin"
+                    l7 = "git remote remove origin\n"
                     l8 = f"git remote add origin https://github.com/ruodeee/{subdir}.git\n"
                     l9 = "git push -u origin main"
                     f.writelines([l1, l2, l3, l4, l5, l6, l7, l8])          

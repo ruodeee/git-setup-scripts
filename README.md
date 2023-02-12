@@ -64,3 +64,4 @@
 "# Infraction-Bot-Overhaul"  
 "# Image-manipulation"  
 "# git-setup-scripts"  
+"# Infraction-Bot"  
