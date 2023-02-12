@@ -1,5 +1,4 @@
 gh repo create git-setup-scripts --private
-echo "# git-setup-scripts" >> README.md 
 git init
 git add --all :/
 git commit -m "first commit"
