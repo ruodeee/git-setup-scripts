@@ -65,3 +65,4 @@
 "# Image-manipulation"  
 "# git-setup-scripts"  
 "# Infraction-Bot"  
+"# Otis-Bot"  
