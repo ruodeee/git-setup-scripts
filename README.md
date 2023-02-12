@@ -71,3 +71,4 @@
 "# Otis-Bot-Overhaul"  
 "# Infraction-Bot-Overhaul"  
 "# Image-manipulation"  
+"# git-setup-scripts"  
