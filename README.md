@@ -1,9 +1,3 @@
-"# git-setup-scripts"  
-"# git-setup-scripts"  
-"# Infraction-Bot"  
-"# Otis-Bot"  
-"# project-trac"  
-"# Advent-of-Code-2022-attempts"  
-"# Otis-Bot-Overhaul"  
-"# Infraction-Bot-Overhaul"  
-"# Image-manipulation"  
+# git-setup-scripts
+## Setup
+## Commands"# git-setup-scripts"  
