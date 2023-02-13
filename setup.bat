@@ -1,3 +1,4 @@
+cd G:\Github\Python\git-setup-scripts\ 
 gh repo create git-setup-scripts --private
 git init
 git add --all :/
